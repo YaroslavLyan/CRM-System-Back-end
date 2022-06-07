@@ -15,3 +15,5 @@
 - Knex
 
 [CRM System Front-End](https://github.com/YaroslavLyan/CRM-Front-End)
+
+[SQL query to create DB](https://github.com/YaroslavLyan/CRM-System-Back-end/blob/main/db-crm.sql)
